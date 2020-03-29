@@ -4,4 +4,10 @@ It has my personal vim settings that ables me to load the whole setup into anoth
 
 # Usage
 Copy the .vimrc to your home directory
-cp .vmrc ~/
+
+# Installation
+1) git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+2) To install from command line: vim +PluginInstall +qall
+
+# Inspiration
+https://github.com/VundleVim/Vundle.vim
